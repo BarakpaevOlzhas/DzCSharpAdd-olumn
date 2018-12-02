@@ -1,0 +1,10 @@
+c:\users\user\source\repos\AddDataBaseCollumn\AddDataBaseCollumn\bin\Debug\AddDataBaseCollumn.exe.config
+c:\users\user\source\repos\AddDataBaseCollumn\AddDataBaseCollumn\bin\Debug\AddDataBaseCollumn.exe
+c:\users\user\source\repos\AddDataBaseCollumn\AddDataBaseCollumn\bin\Debug\AddDataBaseCollumn.pdb
+c:\users\user\source\repos\AddDataBaseCollumn\AddDataBaseCollumn\obj\Debug\AddDataBaseCollumn.csprojResolveAssemblyReference.cache
+c:\users\user\source\repos\AddDataBaseCollumn\AddDataBaseCollumn\obj\Debug\AddDataBaseCollumn.Form1.resources
+c:\users\user\source\repos\AddDataBaseCollumn\AddDataBaseCollumn\obj\Debug\AddDataBaseCollumn.Properties.Resources.resources
+c:\users\user\source\repos\AddDataBaseCollumn\AddDataBaseCollumn\obj\Debug\AddDataBaseCollumn.csproj.GenerateResource.Cache
+c:\users\user\source\repos\AddDataBaseCollumn\AddDataBaseCollumn\obj\Debug\AddDataBaseCollumn.csproj.CoreCompileInputs.cache
+c:\users\user\source\repos\AddDataBaseCollumn\AddDataBaseCollumn\obj\Debug\AddDataBaseCollumn.exe
+c:\users\user\source\repos\AddDataBaseCollumn\AddDataBaseCollumn\obj\Debug\AddDataBaseCollumn.pdb
